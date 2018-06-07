@@ -1,4 +1,4 @@
-# Notes-App
+# To Do List App
 An app to keep a track of important activities you don't want to miss!
 
 This app is used keep a note of different things.
